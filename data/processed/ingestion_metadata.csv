@@ -1,0 +1,2 @@
+files_processed,file_names,total_rows,total_columns
+15,"01_fund_master, 02_nav_history, 03_aum_by_fund_house, 04_monthly_sip_inflows, 05_category_inflows, 06_industry_folio_count, 07_scheme_performance, 08_investor_transactions, 09_portfolio_holdings, 10_benchmark_indices, nav_Axis_Bluechip_119092, nav_ICICI_Bluechip_120503, nav_Kotak_Bluechip_120841, nav_Nippon_Large_Cap_118632, nav_SBI_Bluechip_119551",104240,126
